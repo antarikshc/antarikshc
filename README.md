@@ -13,5 +13,5 @@ I build stupid sh*t and try to be really good at it.
 - 🚀 I’m currently working on Android, Backend and DevOps
 - 🌱 I’m currently learning or (at least hoping to learn) React, React-Native and Flutter
 - 👯 I’m looking to collaborate on AOSP and anything Open Source
-- ✍🏻 I write about my experiences at <a href="blog.antariksh.dev">blog.antariksh.dev</a>
+- ✍🏻 I write about my experiences at <a href="https://blog.antariksh.dev">blog.antariksh.dev</a>
 - ⚡ Fun fact: I used to be a Professional Gamer in my college days | I aspire to experience life at Silicon Valley once in my life
