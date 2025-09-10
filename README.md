@@ -9,9 +9,3 @@ I build stupid sh*t and try to be really good at it.
 <a href="https://www.linkedin.com/in/antarikshc"><img alt="LinkedIn" src="https://img.shields.io/badge/-antarikshc-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antarikshc"/></a>
 <a href="https://paypal.me/antarikshc"><img alt="PayPal" src="https://img.shields.io/badge/-antarikshc-166bd7?style=flat-square&logo=paypal&link=https://paypal.me/antarikshc"/></a>
 </p>
-
-- 🚀 I’m currently working on Android, Backend and DevOps
-- 🌱 I’m currently learning or (at least hoping to learn) React, React-Native and Flutter
-- 👯 I’m looking to collaborate on AOSP and anything Open Source
-- ✍🏻 I write about my experiences at <a href="https://blog.antariksh.dev" target="_blank">blog.antariksh.dev</a>
-- ⚡ Fun fact: I used to be a Professional Gamer in my college days | I aspire to experience life at Silicon Valley once in my life
